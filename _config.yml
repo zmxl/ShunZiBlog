@@ -4,13 +4,13 @@
 
 # Site
 title: 陆永顺の博客
-subtitle:
-description:
+subtitle: 策划狗
+description: 策划狗
 keywords:
 author: 陆永顺
 language: zh-Hans
 timezone:
-avatar: /images/avatar.png
+avatar: /images/avatar.gif
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zmxl.github.io/

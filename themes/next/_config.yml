@@ -6,7 +6,7 @@
 favicon: /images/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT, iOS开发, iOS, 个人博客"
+keywords: "Hexo, NexT, 游戏策划, 策划狗, 个人博客"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -14,7 +14,7 @@ keywords: "Hexo, NexT, iOS开发, iOS, 个人博客"
 rss: /atom.xml
 
 # Specify the date when the site was setup
-since: 2016
+since: 2018
 
 # ---------------------------------------------------------------
 # 打赏设置
@@ -149,7 +149,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/quanweiwang
+  GitHub: https://github.com/zmxl
 
 # Social Links Icons
 # Icon Mapping:
@@ -220,9 +220,7 @@ links_title: 友情链接
 links_layout: block
 #links_layout: inline
 links:
-  拿根针尖对麦芒: https://xnxy.github.io/
-  web前端开发: http://blog.wangyangde.cn/
-  杨晓平の博客: https://guyueyang.github.io/
+  王权伟の博客: http://www.wangquanwei.com/
   
 # ---------------------------------------------------------------
 # Post Settings
@@ -317,10 +315,10 @@ han: false
 #duoshuo_shortname:
 
 # Disqus
-disqus:
-  enable: true
-  shortname: wangquanwei
-  count: true
+#disqus:
+#  enable: true
+#  shortname: wangquanwei
+#  count: true
 
 # Hypercomments
 #hypercomments_id:
@@ -350,7 +348,7 @@ changyan:
 ##  type: button
 
 # Baidu Webmaster tools verification setting
-baidu_site_verification: 7RkZahD6PE
+# baidu_site_verification: 7RkZahD6PE
 
 # Share
 #jiathis:
@@ -362,7 +360,7 @@ baidu_site_verification: 7RkZahD6PE
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: CnfyuWLAJaBycXiHVHkCfGLzqW5JiUIMAZGBbRd8iRs
+# google_site_verification: CnfyuWLAJaBycXiHVHkCfGLzqW5JiUIMAZGBbRd8iRs
 
 # Google Analytics
 #google_analytics:
@@ -382,7 +380,7 @@ google_site_verification: CnfyuWLAJaBycXiHVHkCfGLzqW5JiUIMAZGBbRd8iRs
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
 duoshuo_info:
-  ua_enable: true
+  ua_enable: false
   admin_enable: false
   user_id: 0
   #admin_nickname: Author
@@ -457,7 +455,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: true
+baidu_push: false
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
